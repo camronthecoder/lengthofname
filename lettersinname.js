@@ -1,4 +1,4 @@
-let fullName = "Cameorn Haley "
+let fullName = "Bob"
 let currentName = ""
 let lettersInName = 0 
 let bothNames = fullName.split(" ")
