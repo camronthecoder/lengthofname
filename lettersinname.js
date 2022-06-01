@@ -10,5 +10,6 @@ for (let i = 0; i < bothNames.length; i++) {
 
     //hello
     //hi
+    //goodmorning
 console.log(bothNames)
 }
