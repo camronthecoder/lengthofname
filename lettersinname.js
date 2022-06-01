@@ -9,5 +9,6 @@ for (let i = 0; i < bothNames.length; i++) {
     }
 
     //hello
+    //hi
 console.log(bothNames)
 }
