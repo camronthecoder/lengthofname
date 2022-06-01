@@ -1,0 +1,12 @@
+1. create new repo on github 
+2. go to your the folder you want to upload to github in vsc
+3. $cd (get into right folder)
+4. $ls (to see files in folder)
+5. get to subfolder you want to uploade
+6. $git init 
+7. $git add . (to add files to commit )
+8. $git commit -m "first commit"
+9. copy url from repo page created on github
+10 $git remote add origin  link from step 9
+11. to update code repeat step 7 and 8
+12.$git push
